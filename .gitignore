@@ -27,6 +27,7 @@ wheels/
 
 
 .DS_Store
+twitter_credentials.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
